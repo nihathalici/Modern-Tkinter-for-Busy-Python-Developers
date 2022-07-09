@@ -10,6 +10,6 @@ Writing desktop applications still makes sense in many situations, whether open 
 Links and Appendix
 ========================================================
 
-- Get the book: https://www.amazon.com/dp/B08KWRQFW1
+- Get the book: https://tkdocs.com/book.html
 - About Mark Roseman and his works: https://markroseman.com/
 - Source code: https://github.com/roseman/tkdocs/
